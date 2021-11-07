@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python, Javascript
 - 💞️ I’m looking to collaborate on Python, HTML, CSS
-- :computer: My hobby project: zoom.money
+- :computer: My hobby project: https://zoom.money
 - 📫 hoanghieu@gmail.com
 
 <!---
